@@ -23,8 +23,15 @@ public class HelloEclipse {
 		System.out.println("Hello!");
 //		System.out.println("cyrl+/ is comment");
 		System.out.println("v2");
+<<<<<<< HEAD
 		System.out.println("v3");
 		System.out.println("main try merge");
+=======
+		System.out.println("hey yo");
+		System.out.println("A DOG");
+>>>>>>> dog
+
+		System.out.println("註解刪掉就可以惹");
 	}
 	
 
