@@ -24,6 +24,7 @@ public class HelloEclipse {
 //		System.out.println("cyrl+/ is comment");
 		System.out.println("v2");
 		System.out.println("hey yo");
+		System.out.println("A DOG");
 	}
 	
 
